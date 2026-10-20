@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  body {
+    background-color: #F4F6F3;
+    color: #1A201C;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom utility for clean focus visible */
+*:focus-visible {
+  outline: 2px solid #2E6F40;
+  outline-offset: 2px;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Dave's Garden & Property Maintenance",
+  "description": "Professional lawn mowing, hedge trimming, garden clearance, and property maintenance in Shropshire. Reliable, affordable, and free quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
